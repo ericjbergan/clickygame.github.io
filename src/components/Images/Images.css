@@ -1,0 +1,8 @@
+img {
+    width: 22%;
+    padding: 5px;
+}
+
+img:hover {
+    width: 25%;
+}

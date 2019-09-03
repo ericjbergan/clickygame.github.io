@@ -7,7 +7,9 @@
   height: 100px;
   width: 100%;
   color: white;
-  /* position: fixed; */
+  position: fixed;
+  top: 0;
+  right: 0;
 }
 
 .left,
@@ -26,12 +28,13 @@
   height: 300px;
   text-align: center;
   border: 1px solid grey;
-  padding-top: 70px;
+  padding-top: 75px;
 }
 
 .bannerTitle {
   font-size: 50px;
   font-weight: bold;
+  margin-top: 70px;
 }
 
 .instructions {

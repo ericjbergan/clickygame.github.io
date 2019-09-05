@@ -1,6 +1,9 @@
-This app was written with create react app. It is a memory game where you have to click on an image. Then the images randomly re-distribute and you click on an image again. The goal is to avoid clicking on any image more than once. The game keeps track of your score in the current round and also your best score during this play session.
+This is a fun memory game where you try to remember which images you have already clicked on as they randomly change position. The game keeps track of your score in the current round and also your best score during this play session.
 
 Oddly enough, the biggest single challenge was getting the images to appear since I didn't realize that they have to be in the public folder for react to find them. Once I got that figured out, It was fairly straightforward.
+
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

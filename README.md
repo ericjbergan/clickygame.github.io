@@ -1,6 +1,8 @@
-This is a fun memory game where you try to remember which images you have already clicked on as they randomly change position. The game keeps track of your score in the current round and also your best score during this play session.
+This is a fun little memory game where you try to remember which images you have already clicked on as they randomly change position. The game keeps track of your score in the current round and also your best score during this play session.
 
-Oddly enough, the biggest single challenge was getting the images to appear since I didn't realize that they have to be in the public folder for react to find them. Once I got that figured out, It was fairly straightforward.
+It uses React and CSS.
+
+https://clicky-game-ejb.herokuapp.com
 
 
 
